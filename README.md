@@ -33,14 +33,5 @@ Application should allow users to delete previously saved notes.
 
 ![Note Taker GIFs](https://github.com/sabahsyed/NoteTaker-Express/blob/master/Develop/screenshots/NoteTaker.gif)
 
-## Submission on BCS
-
-You are required to submit the following:
-
-- The URL of the deployed application
-
-- The URL of the GitHub repository\
-
----
 
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
