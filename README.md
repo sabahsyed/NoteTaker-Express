@@ -26,8 +26,12 @@ Application should allow users to delete previously saved notes.
 
 ## Screenshots
 
+![Note Taker Screenshots]()
+![Note Taker Screenshots]()
+![Note Taker Screenshots]()
 ## GIFs
 
+![Note Taker GIFs]()
 
 ## Submission on BCS
 
