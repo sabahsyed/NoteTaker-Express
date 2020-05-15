@@ -26,12 +26,12 @@ Application should allow users to delete previously saved notes.
 
 ## Screenshots
 
-![Note Taker Screenshots]()
-![Note Taker Screenshots]()
-![Note Taker Screenshots]()
+![Note Taker Screenshots](https://github.com/sabahsyed/NoteTaker-Express/blob/master/Develop/screenshots/GIFs/Screen%20Shot%202020-05-15%20at%205.15.51%20AM.png)
+![Note Taker Screenshots](https://github.com/sabahsyed/NoteTaker-Express/blob/master/Develop/screenshots/GIFs/Screen%20Shot%202020-05-15%20at%205.16.57%20AM.png)
+![Note Taker Screenshots](https://github.com/sabahsyed/NoteTaker-Express/blob/master/Develop/screenshots/Screen%20Shot%202020-05-15%20at%205.17.04%20AM.png)
 ## GIFs
 
-![Note Taker GIFs]()
+![Note Taker GIFs](https://github.com/sabahsyed/NoteTaker-Express/blob/master/Develop/screenshots/NoteTaker.gif)
 
 ## Submission on BCS
 
